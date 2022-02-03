@@ -2,22 +2,36 @@
 Betting is illegal in India but skilled betting apps like dream11 and betway are currently legal because there’s skilled required to win rather than just the chance or luck. Premier League is a football league which is the biggest sporting league in the world. Machine learning is a subset of artificial intelligence (AI) in which algorithms learn by example from historical data to predict outcomes and uncover patterns that are not easily spotted by humans. Machine learning evolved from the study of pattern recognition and explores the notion that algorithms can learn from and make predictions on data. And, as they begin to become more ‘intelligent’, these algorithms can overcome program instructions to make highly accurate, data-driven decisions. Predictive analytics encompasses a variety of statistical techniques (including machine learning, predictive modelling and data mining) and uses statistics (both historical and current) to estimate, or ‘predict’, future outcomes. These outcomes might be behaviors of a customer likely to exhibit or possible changes in the market, for example. Predictive analytics help us to understand possible future occurrences by analyzing the past. In this project it’s intended to combine machine learning algorithm with predictive analytics to predict the premier league football table at the end of the season.
 
 # Datasets -
+
 MainData.xlsx is Premier league 2020-21 dataset
+
 PL_2019-20.xlsx is Premier league 2019-20 dataset
+
 PL_2021-22.csv is the predicted dataset 
+
 
 Column Description:
 
 W: Win
+
 D: Draw
+
 L: Loss
+
 GF: Goals For (Goals Scored)
+
 GA: Goals Against (Goals Conceded)
+
 GD: Goal Difference
+
 Xg: Expected Goals
+
 Xg GD: Expected Goal Difference
+
 xPTS: Expected Points
+
 CLS: Clean Sheets
+
 
 Bottom 3 Teams Got Relegated so we won't be using their Data as they won't be in the league this season
 
