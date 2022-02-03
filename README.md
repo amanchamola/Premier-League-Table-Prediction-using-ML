@@ -3,14 +3,14 @@ Betting is illegal in India but skilled betting apps like dream11 and betway are
 
 # Datasets -
 
-MainData.xlsx is Premier league 2020-21 dataset
+## MainData.xlsx is Premier league 2020-21 dataset
 
-PL_2019-20.xlsx is Premier league 2019-20 dataset
+## PL_2019-20.xlsx is Premier league 2019-20 dataset
 
-PL_2021-22.csv is the predicted dataset 
+## PL_2021-22.csv is the predicted dataset 
 
 
-Column Description:
+## Column Description:
 
 W: Win
 
